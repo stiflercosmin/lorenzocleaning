@@ -1,35 +1,7 @@
 .u-section-1 {
-  background-image: none;
+  background-image: url("images/coming-soon.png");
 }
 
 .u-section-1 .u-sheet-1 {
   min-height: 760px;
-}
-
-.u-section-1 .u-image-1 {
-  width: 570px;
-  height: 321px;
-  margin: 220px auto;
-}
-
-@media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 743px;
-  }
-
-  .u-section-1 .u-image-1 {
-    width: 540px;
-    height: 304px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 630px;
-  }
-
-  .u-section-1 .u-image-1 {
-    width: 340px;
-    height: 191px;
-  }
 }
