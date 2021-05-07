@@ -33722,6 +33722,8 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-image-1 {
     margin-top: 17px;
     margin-right: 81px;
+    width: auto;
+    height: auto;
   }
 
   .u-header .u-btn-1 {

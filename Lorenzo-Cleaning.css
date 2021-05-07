@@ -1,5 +1,6 @@
 .u-section-1 {
   background-image: url("images/household_cleaning_products.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -81,10 +82,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 480px;
   }
@@ -139,11 +136,13 @@
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-right: 50px;
-    margin-left: 0;
+    margin-top: -17px;
+    margin-right: 5px;
+    margin-left: 45px;
   }
 }.u-section-2 {
   background-image: url("images/28cf03fd3ba963bc94d152b376a75fb59552a1cca45cc8251a876be9b8428d512db4241bb382ea4f0fc29c1c4e643351b3e9260f9f942abe817bd9_1280.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -222,10 +221,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-2 {
-    background-position: 50% 50%;
-  }
-
   .u-section-2 .u-sheet-1 {
     min-height: 750px;
   }
@@ -313,6 +308,7 @@
   }
 }.u-section-3 {
   background-image: url("images/bb10c402ddcbc06205156c146cd742dc7e779dc46e4461a44b4216840fe090c632e24a912cfec880c71c428116a720a506c2f1f7438a3cbaeffbe3_1280.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -400,10 +396,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-sheet-1 {
     min-height: 653px;
   }
@@ -488,6 +480,7 @@
   }
 }.u-section-4 {
   background-image: url("images/bb10c402ddcbc06205156c146cd742dc7e779dc46e4461a44b4216840fe090c632e24a912cfec880c71c428116a720a506c2f1f7438a3cbaeffbe3_1280.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
@@ -566,10 +559,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-4 {
-    background-position: 50% 50%;
-  }
-
   .u-section-4 .u-sheet-1 {
     min-height: 750px;
   }
@@ -657,6 +646,7 @@
   }
 }.u-section-5 {
   background-image: url("images/bb10c402ddcbc06205156c146cd742dc7e779dc46e4461a44b4216840fe090c632e24a912cfec880c71c428116a720a506c2f1f7438a3cbaeffbe3_1280.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-5 .u-sheet-1 {
@@ -715,10 +705,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 {
-    background-position: 50% 50%;
-  }
-
   .u-section-5 .u-sheet-1 {
     min-height: 750px;
   }
